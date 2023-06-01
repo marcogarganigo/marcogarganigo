@@ -4,7 +4,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcogarganigo&show_icons=true&theme=great-gatsby" alt="marcogarganigo" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
