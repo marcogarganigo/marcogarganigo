@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N11JMHWH)
+
 [![wakatime](https://wakatime.com/badge/user/f0b77c93-5901-4359-ab12-300d8e57e821.svg)](https://wakatime.com/@f0b77c93-5901-4359-ab12-300d8e57e821)
 
 ![](https://komarev.com/ghpvc/?username=marcogarganigo)
