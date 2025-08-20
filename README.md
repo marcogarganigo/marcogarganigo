@@ -4,5 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=marcogarganigo)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcogarganigo&theme=travelers-theme&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marcogarganigo&show_icons=true&theme=great-gatsby" alt="marcogarganigo" />
 
