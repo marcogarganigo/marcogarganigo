@@ -6,3 +6,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcogarganigo&show_icons=true&theme=great-gatsby)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcogarganigo)](https://github.com/anuraghazra/github-readme-stats)
+
