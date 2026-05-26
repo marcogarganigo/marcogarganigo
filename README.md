@@ -9,7 +9,7 @@
 ### 🛠️ Languages and tools I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,django,react,nodejs,nextjs,vite,html,css,vscode,pycharm,photoshop,blender" />
+  <img src="https://skillicons.dev/icons?i=python,rust,js,ts,django,react,nodejs,nextjs,vite,html,css,vscode,pycharm,photoshop,blender" />
 </p>
 
 ---
